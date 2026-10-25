@@ -9,7 +9,7 @@ This document lists the hardware components from the project's earlier design. V
 | 1 | Microcontroller | Arduino Nano or Arduino Uno | 1 |
 | 2 | LEDs | Standard LEDs, preferably red | 384 |
 | 3 | Shift registers | 74HC595, 8-bit serial-in/parallel-out | 7 |
-| 4 | Current-limiting resistors | 220 Ω | 48 |
+| 4 | Current-limiting resistors | 390 Ω | 48 |
 | 5 | Row resistors | 1 kΩ | 8 |
 | 6 | NPN transistors | 2N2222A; if using one per row | 8 (design-dependent) |
 | 7 | Breadboard or PCB | For circuit assembly | 1 |
