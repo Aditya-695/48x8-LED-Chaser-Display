@@ -8,6 +8,22 @@ This project explores digital electronics, embedded programming, shift registers
 
 The circuit was developed and tested using Tinkercad simulation.
 
+## 🔬 Tinkercad Simulation
+
+The 48×8 LED Chaser Display was designed and simulated using Tinkercad Circuits.
+
+🔗 **[View the Interactive Tinkercad Prototype](https://www.tinkercad.com/things/fFtkdgPp0za-incredible-kup-wolt?sharecode=H3WQMxCCmozfytdK2QdD0sj_Zn7ykgCHP2EGRfw-jhg)**
+
+### How to Explore the Simulation
+
+1. Open the Tinkercad prototype using the link above.
+2. Start the simulation.
+3. Observe the LED display's operation and animation patterns.
+4. Inspect the circuit components and their connections.
+
+**Platform:** Autodesk Tinkercad Circuits
+**Simulation Status:** Reported functional by the project author.
+
 ## Features
 
 * 48×8 LED matrix configuration
