@@ -49,17 +49,11 @@ The 48×8 LED Chaser Display was designed and simulated using Tinkercad Circuits
 
 The circuit uses shift registers to expand the Arduino's available digital outputs. Multiplexing controls the LED matrix by activating rows and columns in sequence.
 
-## Tinkercad Simulation
-
-**Simulation link:** [Insert your public Tinkercad simulation link here]
-
-The simulation demonstrates the circuit's operation and allows visitors to inspect its connections and behavior.
-
 ## Repository Contents
-
-* `Arduino_Code/` — Arduino source code
-* `Circuit_Diagram/` — Circuit and PCB design files
-* `Simulation/` — Simulation screenshots and demonstration media
+* `Hardware_Components_LED_Chaser/` - Hardware component list
+* `LEDchaser/` — Arduino source code
+* `CircuitDiagram/` — Circuit and PCB design files
+* `Finalview/` — Simulation screenshots and demonstration media
 * `README.md` — Project documentation
 
 ## Learning Outcomes
